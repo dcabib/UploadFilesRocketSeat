@@ -1,0 +1,19 @@
+/server/node_modules
+/client/node_modules
+
+/server/.env
+/server/tmp/uploads/*
+
+/client/.pnp
+/client/.pnp.js
+
+# testing
+/client/coverage
+
+# production
+/client/build
+
+# misc
+
+
+.idea/
