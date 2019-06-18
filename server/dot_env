@@ -1,0 +1,11 @@
+APP_URL                 = http://localhost:3000
+
+AWS_ACCESS_KEY_ID       = AKIATJNHD77ZOCVNJLUR
+AWS_SECRET_ACCESS_KEY   = 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
+AWS_DEFAULT_REGION      = us-east-1
+BUCKET_NAME             = rocketseatdanielabib
+
+MONGO_URL               = mongodb://localhost:27017/filerocketseat
+
+STORAGE_TYPE            = local
+#STORAGE_TYPE            = s3
